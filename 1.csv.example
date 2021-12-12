@@ -1,0 +1,3 @@
+idnumber,shortname,fullname,category,enrolment_1_password,startdate,enddate,enrolment_1,enrolment_1_role,enrolment_2,enrolment_2_role
+TEST - CSIE0001,TEST - CSIE0001,TEST - CSIE0001 Introduction to Computer Science ,358,CSIE0001,18 October 2021,30 January 2022,self,student,manual,student
+TEST - CSIE0002,TEST - CSIE0002,TEST - CSIE0002 Introduction to Computer Programming (I),358,CSIE0002,18 October 2021,30 January 2022,self,student,manual,student

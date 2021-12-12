@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": "^8.1",
+        "php-webdriver/webdriver": "^1.12",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
